@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  Feeds
 //
-//  Created by Tulsi Gajara on 5/25/15.
+//  Created by Hardik Amal on 5/25/15.
 //  Copyright (c) 2015 Hardik. All rights reserved.
 //
 
